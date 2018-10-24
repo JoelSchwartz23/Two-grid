@@ -1,0 +1,18 @@
+.bg-blue{
+  background: rgb(0, 94, 202);
+  color: white;
+}
+
+.box{
+  height: 40px;
+}
+
+.bg-whitesmoke{
+  background: rgb(238, 236, 236);
+}
+
+.card-white{
+  background: white;
+ padding: 20px; 
+ margin: 5px 10px 10px 40px;
+}
